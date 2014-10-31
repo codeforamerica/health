@@ -1,5 +1,6 @@
-[![Stories in Ready](https://badge.waffle.io/codeforamerica/health.png?label=ready&title=Ready)](https://waffle.io/codeforamerica/health)
 health
 ==========
 
 Meta repo to view all health project issues: https://waffle.io/codeforamerica/health
+
+[![Throughput Graph](https://graphs.waffle.io/codeforamerica/health/throughput.svg)](https://waffle.io/codeforamerica/health/metrics)
