@@ -1,7 +1,7 @@
 Health
 ==========
 
-So we've started doing some work in [health & human services](http://www.codeforamerica.org/our-work/focus-areas/). This is a meta-repo for the meta-waffle, so you can see everything we're doing at once: https://waffle.io/codeforamerica/health
+So we've started doing some work in [health & human services](http://www.codeforamerica.org/our-work/focus-areas/). This is a meta-repo for the meta-waffle, so you can see everything we're doing at once: http://codeforamerica.github.io/health
 
 Project  | Metrics | Build status | Waffle
 ------------- | ------------- | ------------- | -------------
