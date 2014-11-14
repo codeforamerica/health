@@ -1,0 +1,28 @@
+.slide-content {
+  overflow: visible;
+}
+
+.bleed {
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+ul {
+  margin: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+p {
+  margin-bottom: 0px;
+}
+
+h1 {
+  margin-top: 0px;
+}
+
+.controls { 
+  position: fixed;
+}
