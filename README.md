@@ -10,3 +10,7 @@ Project | [Phase](https://www.gov.uk/service-manual/phases) | Metrics | Build st
 [EbtNearMe](https://github.com/lippytak/ebt-near-me) helps you find where you can use your EBT card | Alpha  | [(to do)](https://github.com/fureigh/ebt-near-me/issues/42)  | (to do)  | [![Stories in Ready](https://badge.waffle.io/lippytak/ebt-near-me.svg?label=ready&title=Ready)](http://waffle.io/lippytak/ebt-near-me)
 [Connect](https://github.com/codeforamerica/connect) is robot that waits on hold so social service clients don't have to | Alpha | [(to do)](https://github.com/codeforamerica/connect/issues/14)  | [![Build Status](https://travis-ci.org/codeforamerica/connect.svg)](https://travis-ci.org/codeforamerica/connect) | [![Stories in Ready](https://badge.waffle.io/codeforamerica/connect.svg?label=ready&title=Ready)](http://waffle.io/codeforamerica/connect)
 
+## Other Links
+
+- [Research](https://github.com/codeforamerica/health/wiki/Research): documentation of our research on the problems we're tackling and our own data generated from our work
+
