@@ -3,10 +3,11 @@
 }
 
 .bleed {
-  width: 100%;
+  width: 80%;
   position: absolute;
   top: 0px;
   left: 0px;
+  margin-left: 10%;
 }
 
 ul {
