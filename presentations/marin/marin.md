@@ -76,8 +76,8 @@ controls: true
 ### Services
 - Balance
 - Connect
-- [EBTNearMe](www.ebtnearme.org)
-- [CleanAssist](demo.cleanassist.org)
+- [EBTNearMe](http://www.ebtnearme.org)
+- [CleanAssist](http://demo.cleanassist.org)
 
 --
 ### Clean Assist
