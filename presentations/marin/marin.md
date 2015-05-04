@@ -46,11 +46,16 @@ controls: true
 <img src="media/submit.jpeg" class="bleed">
 
 --
-### App - GIF
-<img src="media/calfresh-application.gif" class="bleed">
+### App - docs
+<img src="media/required.jpg" class="bleed">
 
 --
-# [NOA Timeline](http://lippytak.github.io/calfresh/)
+### App - useless
+<img src="media/useless.png" class="bleed">
+
+--
+### App - GIF
+<img src="media/calfresh-application.gif" class="bleed">
 
 --
 ### NOA
@@ -59,6 +64,9 @@ controls: true
 --
 ### NOA
 <img src="media/8.20-sar.jpg" class="bleed">
+
+--
+# [NOA Timeline](http://lippytak.github.io/calfresh/)
 
 --
 ### Surveys
