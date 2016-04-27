@@ -15,7 +15,8 @@ Project | [Phase](https://www.gov.uk/service-manual/phases) | Metrics | Build st
 ## Other Links
 
 - [Research](https://github.com/codeforamerica/health/wiki/Research): documentation of our research on the problems we're tackling and our own data generated from our work
-- 
+
+
 ## Cadence
 [![Throughput Graph](https://graphs.waffle.io/codeforamerica/health/throughput.svg)](https://waffle.io/codeforamerica/health/metrics/throughput)
 
